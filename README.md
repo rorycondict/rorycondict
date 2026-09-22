@@ -11,6 +11,8 @@
 </samp>
 <p align="center">
   <samp>
-    <a href="https://rorycondict.com">website</a>
+    <a href="https://rorycondict.com">website</a> .
+    <a href="https://rorycondict.com/projects">projects</a> .
+    <a href="https://rorycondict.com/contact">contact</a>
   </samp>
 </p>
