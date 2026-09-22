@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" alt="banner" src="https://github.com/user-attachments/assets/62318445-e34e-487f-baed-bcd84bdd8b08" />
+</div>
+
+<hr />
+
 <samp>
   <p align="center">
     hey, welcome to my profile.
